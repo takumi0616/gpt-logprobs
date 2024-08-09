@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #edc3e7;
+  font-size: 30px;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  color: #2c3844;
+  padding: 13px;
+}
+
+.icon {
+  display: flex;
+  color: #2c3844;
+  padding-bottom: 3px;
+}
+
+.text {
+  margin-left: 25px;
+  flex-wrap: wrap;
+}
